@@ -1,6 +1,4 @@
-# IMDB-Sentiment-Prediction-using-Simple-RNN using google colab
-
-# IMDB Movie Review Sentiment Analysis
+# IMDB-Sentiment-Prediction-using-Simple-RNN 
 
 ## Overview
 This project is a web application for sentiment analysis of IMDB movie reviews using a deep learning model built with TensorFlow and Keras. The app allows users to input a movie review and predicts whether the review is positive or negative.
